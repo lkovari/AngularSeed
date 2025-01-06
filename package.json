@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "gitbuild": "ng build --configuration production --aot --base-href /Seed/",
+    "gitbuild": "ng build --configuration production --aot --base-href /AngularSeed/",
     "gitdeploy": "gh-pages -d dist"
   },
   "private": true,
